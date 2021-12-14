@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shane Gray</h1>
 <h3 align="center">A passionate full stack developer from La Grange, Kentucky</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shane-gray394&label=Profile%20views&color=0e75b6&style=flat" alt="shane-gray394" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shane-gray394&label=Profile%20views&color=0e75b6&style=flat" alt="shane-gray394" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shane-gray394" alt="shane-gray394" /></a> </p>
 
