@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [shanegray.tech](shanegray.tech)
 
-- 📫 You can reach by emailing me at **shane.dalton.gray@gmail.com** or by messaging me on <a href="https://linkedin.com/in/shanegray394" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shanegray394" height="20" width="30"/></a>
+- 📫 You can reach by emailing me at **shane.dalton.gray@gmail.com** or by messaging me on <a href="https://linkedin.com/in/shanegray394" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shanegray394" height="20" width="30"/></a>
 
 - 📄 Know about my experiences through my [resume](https://docs.google.com/document/d/1eQWS-g4Ze0B4YtK5YmNFScb46QunMcKAzSSEG7xZlKs/edit?usp=sharing)
 
