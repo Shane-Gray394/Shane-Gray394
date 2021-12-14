@@ -1,6 +1,5 @@
-<p>
-<h1 align="center">Hi 👋, I'm Shane Gray</h1> <a href="https://linkedin.com/in/shanegray394" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shanegray394" height="30" width="40"/></a>
-</p>
+<h1 align="center">Hi 👋, I'm Shane Gray <a href="https://linkedin.com/in/shanegray394" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shanegray394" height="30" width="40"/></a>
+</h1>
 
 <h3 align="center">A passionate full stack developer from La Grange, Kentucky</h3>
 
