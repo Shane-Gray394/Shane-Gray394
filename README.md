@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋, my name is Shane Gray </h1>
 
-<h3 align="center">A motivated and driven Full Stack Developer from La Grange, Kentucky</h3>
+<h3 align="center">A motivated and driven Full Stack Developer from Louisville, Kentucky</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shane-gray394&label=Profile%20views&color=0e75b6&style=flat" alt="shane-gray394" /> </p>
 
