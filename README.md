@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shane-gray394&label=Profile%20views&color=0e75b6&style=flat" alt="shane-gray394" /> </p>
 
-- 🔭 I’m currently working on [my portfolio website.](shanegray.tech)
+- 🔭 I’m currently working on [my portfolio website.](https://www.shanegray.tech)
 
 - 🌱 I’m currently learning **advanced JavaScript, algorithms, etc.**
 
