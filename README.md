@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **advanced JavaScript, algorithms, etc.**
 
-- 👨‍💻 All of my projects are available at [shanegray.tech](https://www.shanegray.tech)
+- 👨‍💻 All of my projects are available at [www.shanegray.tech](https://www.shanegray.tech)
 
 - 📫 You can reach me through email at **shane.dalton.gray@gmail.com** or by messaging me on <a href="https://linkedin.com/in/shanegray394" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shanegray394" height="20" width="30"/></a>
 
