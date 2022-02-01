@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shane-gray394&label=Profile%20views&color=0e75b6&style=flat" alt="shane-gray394" /> </p>
 
-- 🔭 I’m currently contributing to the [Underdog Devs.](https://github.com/BloomTech-Labs/underdog-devs-fe-a) project
+- 🔭 I’m currently contributing to the [Underdog Devs](https://github.com/BloomTech-Labs/underdog-devs-fe-a) project.
 
 - 🌱 I’m currently exploring **advanced JavaScript, algorithms, etc.**
 
