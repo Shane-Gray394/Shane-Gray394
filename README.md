@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, my name is Shane Gray </h1>
+<h1 align="center">Hey 👋, my name is Shane Gray </h1>
 
 <h3 align="center">A motivated and driven Software Engineer from Louisville, Kentucky</h3>
 
